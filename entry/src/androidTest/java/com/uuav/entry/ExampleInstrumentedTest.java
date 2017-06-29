@@ -1,4 +1,4 @@
-package com.uuav.view;
+package com.uuav.entry;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.uuav.view.test", appContext.getPackageName());
+        assertEquals("com.uuav.entry.test", appContext.getPackageName());
     }
 }

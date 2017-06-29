@@ -1,4 +1,4 @@
-package com.uuav.view;
+package com.uuav.entry;
 
 import org.junit.Test;
 

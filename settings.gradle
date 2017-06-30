@@ -1,1 +1,1 @@
-include ':app', ':view', ':code', ':interface', ':entry'
+include ':app', ':code', ':interface', ':entry', ':vitamio'
